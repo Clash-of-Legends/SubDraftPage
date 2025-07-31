@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+  <meta charset="UTF-8">
+  <title>Výběr Subů</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<script src="teams.js"></script>
+<script src="main.js"></script>
+
+<video id="bg-video" autoplay muted loop>
+  <source src="turbo_bg.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
+<div class="file-upload">
+  <h2>Načíst hráče</h2>
+  <label>Draftnutí hráči: <input type="file" id="draftedFile" accept="application/json"></label><br>
+  <label>Zbylí hráči: <input type="file" id="remainingFile" accept="application/json"></label><br>
+  <button onclick="loadDataFiles()">Načíst</button>
+</div>
+
+<div class="sub-container" style="display:none; justify-content:center; gap:20px; margin-top:20px;">
+
+  <div class="sub-box">
+    <div class="sub-header">Sub 1</div>
+    <div id="sub1-display" class="price-box">---</div>
+  </div>
+  <div class="sub-box">
+    <div class="sub-header">Sub 2</div>
+    <div id="sub2-display" class="price-box">---</div>
+  </div>
+</div>
+
+<div id="captain-name" style="text-align:center; font-size:22px; font-weight:bold; margin-top: 15px;"></div>
+<img id="team-logo" style="display:none; width: 500px; margin: 30px auto 10px auto; display: block;">
+
+
+
+<!-- Levý dolní roh -->
+<div class="corner-select" id="sub1-box">
+  <label for="sub1-select">Sub 1 (≤ průměr top 3):</label><br>
+  <select id="sub1-select" size="10"></select>
+</div>
+
+<!-- Pravý dolní roh -->
+<div class="corner-select" id="sub2-box">
+  <label for="sub2-select">Sub 2 (≤ 350 & ≤ nejlevnější):</label><br>
+  <select id="sub2-select" size="10"></select>
+</div>
+
+<!-- Tlačítko ve středu dole -->
+<div id="assign-button-wrapper">
+  <button id="assign-button" onclick="assignSub()">Přiřadit</button>
+</div>
+
+
+</body>
+</html>

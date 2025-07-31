@@ -1,0 +1,602 @@
+[
+  {
+    "name": "JIRKOS",
+    "role": "top",
+    "price": 430,
+    "team": "ARCANA"
+  },
+  {
+    "name": "DAO (CPT)",
+    "role": "jg",
+    "price": 700,
+    "team": "ARCANA"
+  },
+  {
+    "name": "HONBAL",
+    "role": "mid",
+    "price": 430,
+    "team": "ARCANA"
+  },
+  {
+    "name": "BAZI",
+    "role": "adc",
+    "price": 580,
+    "team": "ARCANA"
+  },
+  {
+    "name": "LIMETKA",
+    "role": "sup",
+    "price": 240,
+    "team": "ARCANA"
+  },
+  {
+    "name": "TOMOMASO (CPT)",
+    "role": "top",
+    "price": 700,
+    "team": "PILTOVER"
+  },
+  {
+    "name": "RADEK",
+    "role": "jg",
+    "price": 410,
+    "team": "PILTOVER"
+  },
+  {
+    "name": "RINZZ",
+    "role": "mid",
+    "price": 450,
+    "team": "PILTOVER"
+  },
+  {
+    "name": "DZEJNO",
+    "role": "adc",
+    "price": 670,
+    "team": "PILTOVER"
+  },
+  {
+    "name": "VALIS",
+    "role": "sup",
+    "price": 170,
+    "team": "PILTOVER"
+  },
+  {
+    "name": "TURBOSMURF",
+    "role": "top",
+    "price": 470,
+    "team": "NINJAS"
+  },
+  {
+    "name": "KAISHO",
+    "role": "jg",
+    "price": 300,
+    "team": "NINJAS"
+  },
+  {
+    "name": "NECRO  (CPT)",
+    "role": "mid",
+    "price": 680,
+    "team": "NINJAS"
+  },
+  {
+    "name": "KOUSAMEK",
+    "role": "adc",
+    "price": 580,
+    "team": "NINJAS"
+  },
+  {
+    "name": "ALOPEK",
+    "role": "sup",
+    "price": 120,
+    "team": "NINJAS"
+  },
+  {
+    "name": "SAJOX",
+    "role": "top",
+    "price": 440,
+    "team": "NOXUS"
+  },
+  {
+    "name": "MIMI",
+    "role": "jg",
+    "price": 330,
+    "team": "NOXUS"
+  },
+  {
+    "name": "FILCEK",
+    "role": "mid",
+    "price": 600,
+    "team": "NOXUS"
+  },
+  {
+    "name": "PITH16E  (CPT)",
+    "role": "adc",
+    "price": 600,
+    "team": "NOXUS"
+  },
+  {
+    "name": "JURAX",
+    "role": "sup",
+    "price": 50,
+    "team": "NOXUS"
+  },
+  {
+    "name": "MABE",
+    "role": "top",
+    "price": 550,
+    "team": "BILGEWATER"
+  },
+  {
+    "name": "AZGOR",
+    "role": "jg",
+    "price": 270,
+    "team": "BILGEWATER"
+  },
+  {
+    "name": "FLICEK",
+    "role": "mid",
+    "price": 600,
+    "team": "BILGEWATER"
+  },
+  {
+    "name": "DAW1K",
+    "role": "adc",
+    "price": 140,
+    "team": "BILGEWATER"
+  },
+  {
+    "name": "SPRINGY  (CPT)",
+    "role": "sup",
+    "price": 520,
+    "team": "BILGEWATER"
+  },
+  {
+    "name": "LOVECOURY",
+    "role": "top",
+    "price": 470,
+    "team": "DARKINS"
+  },
+  {
+    "name": "ASTRO",
+    "role": "jg",
+    "price": 250,
+    "team": "DARKINS"
+  },
+  {
+    "name": "POSLOU (CPT)",
+    "role": "mid",
+    "price": 620,
+    "team": "DARKINS"
+  },
+  {
+    "name": "HANYS",
+    "role": "adc",
+    "price": 520,
+    "team": "DARKINS"
+  },
+  {
+    "name": "LEUV",
+    "role": "sup",
+    "price": 190,
+    "team": "DARKINS"
+  },
+  {
+    "name": "ZEN",
+    "role": "top",
+    "price": 500,
+    "team": "CAMAVOR"
+  },
+  {
+    "name": "HORVIS",
+    "role": "jg",
+    "price": 260,
+    "team": "CAMAVOR"
+  },
+  {
+    "name": "NUGY (CPT)",
+    "role": "mid",
+    "price": 600,
+    "team": "CAMAVOR"
+  },
+  {
+    "name": "DEJVID",
+    "role": "adc",
+    "price": 560,
+    "team": "CAMAVOR"
+  },
+  {
+    "name": "VAJTAKK",
+    "role": "sup",
+    "price": 200,
+    "team": "CAMAVOR"
+  },
+  {
+    "name": "TOMI (CPT)",
+    "role": "top",
+    "price": 540,
+    "team": "FRELJORD"
+  },
+  {
+    "name": "REFUGEE",
+    "role": "jg",
+    "price": 530,
+    "team": "FRELJORD"
+  },
+  {
+    "name": "MIKKEREK",
+    "role": "mid",
+    "price": 650,
+    "team": "FRELJORD"
+  },
+  {
+    "name": "SENZO",
+    "role": "adc",
+    "price": 530,
+    "team": "FRELJORD"
+  },
+  {
+    "name": "SOVAZ",
+    "role": "sup",
+    "price": 290,
+    "team": "FRELJORD"
+  },
+  {
+    "name": "EXOO",
+    "role": "top",
+    "price": 560,
+    "team": "Shadow Isles"
+  },
+  {
+    "name": "VNLLACE",
+    "role": "jg",
+    "price": 120,
+    "team": "Shadow Isles"
+  },
+  {
+    "name": "SHIFTER",
+    "role": "mid",
+    "price": 500,
+    "team": "Shadow Isles"
+  },
+  {
+    "name": "ERNIE (CPT)",
+    "role": "adc",
+    "price": 500,
+    "team": "Shadow Isles"
+  },
+  {
+    "name": "UNSHEAD",
+    "role": "sup",
+    "price": 400,
+    "team": "Shadow Isles"
+  },
+  {
+    "name": "PIZZA",
+    "role": "top",
+    "price": 40,
+    "team": "BLACK ROSES"
+  },
+  {
+    "name": "KOCOUREK",
+    "role": "jg",
+    "price": 700,
+    "team": "BLACK ROSES"
+  },
+  {
+    "name": "SKODIX",
+    "role": "mid",
+    "price": 510,
+    "team": "BLACK ROSES"
+  },
+  {
+    "name": "LENNY (CPT)",
+    "role": "adc",
+    "price": 500,
+    "team": "BLACK ROSES"
+  },
+  {
+    "name": "V1TAX",
+    "role": "sup",
+    "price": 330,
+    "team": "BLACK ROSES"
+  },
+  {
+    "name": "JENIKK",
+    "role": "top",
+    "price": 580,
+    "team": "VOID"
+  },
+  {
+    "name": "TARKY (CPT)",
+    "role": "jg",
+    "price": 450,
+    "team": "VOID"
+  },
+  {
+    "name": "SGOOB",
+    "role": "mid",
+    "price": 700,
+    "team": "VOID"
+  },
+  {
+    "name": "447",
+    "role": "adc",
+    "price": 480,
+    "team": "VOID"
+  },
+  {
+    "name": "ELIT",
+    "role": "sup",
+    "price": 310,
+    "team": "VOID"
+  },
+  {
+    "name": "KAPPA",
+    "role": "top",
+    "price": 700,
+    "team": "SHURIMA"
+  },
+  {
+    "name": "WINNIK (CPT)",
+    "role": "jg",
+    "price": 440,
+    "team": "SHURIMA"
+  },
+  {
+    "name": "DANDEN",
+    "role": "mid",
+    "price": 600,
+    "team": "SHURIMA"
+  },
+  {
+    "name": "KARGIC",
+    "role": "adc",
+    "price": 550,
+    "team": "SHURIMA"
+  },
+  {
+    "name": "DABSA",
+    "role": "sup",
+    "price": 320,
+    "team": "SHURIMA"
+  },
+  {
+    "name": "JANCEXOXO (CPT)",
+    "role": "top",
+    "price": 430,
+    "team": "IONIA"
+  },
+  {
+    "name": "ONIFUS",
+    "role": "jg",
+    "price": 90,
+    "team": "IONIA"
+  },
+  {
+    "name": "DOMI",
+    "role": "mid",
+    "price": 590,
+    "team": "IONIA"
+  },
+  {
+    "name": "TOMI",
+    "role": "adc",
+    "price": 450,
+    "team": "IONIA"
+  },
+  {
+    "name": "VLACEK",
+    "role": "sup",
+    "price": 320,
+    "team": "IONIA"
+  },
+  {
+    "name": "LOGAS",
+    "role": "top",
+    "price": 230,
+    "team": "CELESTIALS"
+  },
+  {
+    "name": "GOKSI",
+    "role": "jg",
+    "price": 700,
+    "team": "CELESTIALS"
+  },
+  {
+    "name": "YELLOWNUGGY (CPT)",
+    "role": "mid",
+    "price": 600,
+    "team": "CELESTIALS"
+  },
+  {
+    "name": "PREDATOR",
+    "role": "adc",
+    "price": 460,
+    "team": "CELESTIALS"
+  },
+  {
+    "name": "NHLEKO",
+    "role": "sup",
+    "price": 350,
+    "team": "CELESTIALS"
+  },
+  {
+    "name": "LUKESSIN",
+    "role": "top",
+    "price": 80,
+    "team": "DEMACIA"
+  },
+  {
+    "name": "CHALEC (CPT)",
+    "role": "jg",
+    "price": 350,
+    "team": "DEMACIA"
+  },
+  {
+    "name": "MIFLOND",
+    "role": "mid",
+    "price": 600,
+    "team": "DEMACIA"
+  },
+  {
+    "name": "STEALSHOT",
+    "role": "adc",
+    "price": 480,
+    "team": "DEMACIA"
+  },
+  {
+    "name": "HAZY",
+    "role": "sup",
+    "price": 330,
+    "team": "DEMACIA"
+  },
+  {
+    "name": "MATO (CPT)",
+    "role": "top",
+    "price": 340,
+    "team": "IXTAL"
+  },
+  {
+    "name": "TOBIKOM",
+    "role": "jg",
+    "price": 40,
+    "team": "IXTAL"
+  },
+  {
+    "name": "MALYRINN",
+    "role": "mid",
+    "price": 590,
+    "team": "IXTAL"
+  },
+  {
+    "name": "ROMCA",
+    "role": "adc",
+    "price": 440,
+    "team": "IXTAL"
+  },
+  {
+    "name": "VODR",
+    "role": "sup",
+    "price": 410,
+    "team": "IXTAL"
+  },
+  {
+    "name": "MARWL",
+    "role": "top",
+    "price": 140,
+    "team": "ZAUN"
+  },
+  {
+    "name": "RANORR",
+    "role": "jg",
+    "price": 580,
+    "team": "ZAUN"
+  },
+  {
+    "name": "MACMAMLAS",
+    "role": "mid",
+    "price": 430,
+    "team": "ZAUN"
+  },
+  {
+    "name": "CLER (CPT)",
+    "role": "adc",
+    "price": 310,
+    "team": "ZAUN"
+  },
+  {
+    "name": "SOTY",
+    "role": "sup",
+    "price": 400,
+    "team": "ZAUN"
+  },
+  {
+    "name": "BRUSKA",
+    "role": "top",
+    "price": 90,
+    "team": "TARGON"
+  },
+  {
+    "name": "MIRACLE",
+    "role": "jg",
+    "price": 580,
+    "team": "TARGON"
+  },
+  {
+    "name": "SAFO",
+    "role": "mid",
+    "price": 430,
+    "team": "TARGON"
+  },
+  {
+    "name": "VENTYLI",
+    "role": "adc",
+    "price": 420,
+    "team": "TARGON"
+  },
+  {
+    "name": "DEDA  (CPT)",
+    "role": "sup",
+    "price": 300,
+    "team": "TARGON"
+  },
+  {
+    "name": "PEEPO",
+    "role": "top",
+    "price": 200,
+    "team": "DEMONS"
+  },
+  {
+    "name": "MELLA",
+    "role": "jg",
+    "price": 530,
+    "team": "DEMONS"
+  },
+  {
+    "name": "R",
+    "role": "mid",
+    "price": 420,
+    "team": "DEMONS"
+  },
+  {
+    "name": "ECLIPSE",
+    "role": "adc",
+    "price": 400,
+    "team": "DEMONS"
+  },
+  {
+    "name": "NATYNA  (CPT)",
+    "role": "sup",
+    "price": 200,
+    "team": "DEMONS"
+  },
+  {
+    "name": "BUREJA",
+    "role": "top",
+    "price": 200,
+    "team": "BANDLE CITY"
+  },
+  {
+    "name": "BRTA",
+    "role": "jg",
+    "price": 280,
+    "team": "BANDLE CITY"
+  },
+  {
+    "name": "FIREYXZ",
+    "role": "mid",
+    "price": 450,
+    "team": "BANDLE CITY"
+  },
+  {
+    "name": "DEEP",
+    "role": "adc",
+    "price": 530,
+    "team": "BANDLE CITY"
+  },
+  {
+    "name": "MUFFI  (CPT)",
+    "role": "sup",
+    "price": 150,
+    "team": "BANDLE CITY"
+  }
+]

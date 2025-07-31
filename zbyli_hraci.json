@@ -1,0 +1,797 @@
+[
+  {
+    "name": "YAKU",
+    "role": "jg",
+    "price": 560
+  },
+  {
+    "name": "GOGELIN",
+    "role": "jg",
+    "price": 510
+  },
+  {
+    "name": "MAJKL",
+    "role": "jg",
+    "price": 500
+  },
+  {
+    "name": "ARASHID",
+    "role": "jg",
+    "price": 470
+  },
+  {
+    "name": "AUDIS",
+    "role": "jg",
+    "price": 460
+  },
+  {
+    "name": "SAMBEE",
+    "role": "jg",
+    "price": 460
+  },
+  {
+    "name": "SMITE",
+    "role": "jg",
+    "price": 460
+  },
+  {
+    "name": "TOOFAST",
+    "role": "jg",
+    "price": 460
+  },
+  {
+    "name": "ENVY",
+    "role": "jg",
+    "price": 430
+  },
+  {
+    "name": "POLO",
+    "role": "jg",
+    "price": 430
+  },
+  {
+    "name": "WAYTEK",
+    "role": "jg",
+    "price": 410
+  },
+  {
+    "name": "LUKARDO",
+    "role": "jg",
+    "price": 400
+  },
+  {
+    "name": "SIMBA",
+    "role": "jg",
+    "price": 400
+  },
+  {
+    "name": "WRLD",
+    "role": "jg",
+    "price": 400
+  },
+  {
+    "name": "GOLDRIN",
+    "role": "jg",
+    "price": 350
+  },
+  {
+    "name": "HAJNEJ",
+    "role": "jg",
+    "price": 350
+  },
+  {
+    "name": "MICHAL",
+    "role": "jg",
+    "price": 350
+  },
+  {
+    "name": "LIEN",
+    "role": "jg",
+    "price": 320
+  },
+  {
+    "name": "HOUBA",
+    "role": "jg",
+    "price": 310
+  },
+  {
+    "name": "KUSHIRA",
+    "role": "jg",
+    "price": 310
+  },
+  {
+    "name": "MICAMAKE",
+    "role": "jg",
+    "price": 310
+  },
+  {
+    "name": "ROB",
+    "role": "jg",
+    "price": 310
+  },
+  {
+    "name": "HAARPSENN",
+    "role": "jg",
+    "price": 280
+  },
+  {
+    "name": "KAKAO",
+    "role": "jg",
+    "price": 280
+  },
+  {
+    "name": "ECHO",
+    "role": "jg",
+    "price": 260
+  },
+  {
+    "name": "SHAY",
+    "role": "jg",
+    "price": 260
+  },
+  {
+    "name": "KULY",
+    "role": "mid",
+    "price": 480
+  },
+  {
+    "name": "DOSIN",
+    "role": "mid",
+    "price": 430
+  },
+  {
+    "name": "BANDY",
+    "role": "mid",
+    "price": 420
+  },
+  {
+    "name": "LETADLO",
+    "role": "mid",
+    "price": 410
+  },
+  {
+    "name": "UNDEAD",
+    "role": "mid",
+    "price": 410
+  },
+  {
+    "name": "GUMA",
+    "role": "mid",
+    "price": 400
+  },
+  {
+    "name": "HONDYK",
+    "role": "mid",
+    "price": 400
+  },
+  {
+    "name": "KUBIK",
+    "role": "mid",
+    "price": 400
+  },
+  {
+    "name": "PANDA",
+    "role": "mid",
+    "price": 400
+  },
+  {
+    "name": "1",
+    "role": "mid",
+    "price": 350
+  },
+  {
+    "name": "TOMKO",
+    "role": "mid",
+    "price": 350
+  },
+  {
+    "name": "TOMKY",
+    "role": "mid",
+    "price": 340
+  },
+  {
+    "name": "ATRIEL",
+    "role": "mid",
+    "price": 330
+  },
+  {
+    "name": "PUFIK",
+    "role": "mid",
+    "price": 330
+  },
+  {
+    "name": "LEON",
+    "role": "mid",
+    "price": 320
+  },
+  {
+    "name": "RABBIT",
+    "role": "mid",
+    "price": 310
+  },
+  {
+    "name": "COSMMO",
+    "role": "mid",
+    "price": 300
+  },
+  {
+    "name": "FIXTER",
+    "role": "mid",
+    "price": 300
+  },
+  {
+    "name": "FOUSI",
+    "role": "mid",
+    "price": 300
+  },
+  {
+    "name": "AFIS",
+    "role": "mid",
+    "price": 290
+  },
+  {
+    "name": "27",
+    "role": "mid",
+    "price": 280
+  },
+  {
+    "name": "DEJJVISS",
+    "role": "mid",
+    "price": 280
+  },
+  {
+    "name": "PELDA",
+    "role": "mid",
+    "price": 270
+  },
+  {
+    "name": "ASMO",
+    "role": "mid",
+    "price": 260
+  },
+  {
+    "name": "BLITZFOX",
+    "role": "mid",
+    "price": 260
+  },
+  {
+    "name": "FISH",
+    "role": "mid",
+    "price": 260
+  },
+  {
+    "name": "LAPERTI",
+    "role": "mid",
+    "price": 250
+  },
+  {
+    "name": "MYVAL",
+    "role": "mid",
+    "price": 250
+  },
+  {
+    "name": "DAVE",
+    "role": "mid",
+    "price": 240
+  },
+  {
+    "name": "SUSA",
+    "role": "mid",
+    "price": 240
+  },
+  {
+    "name": "GREYA",
+    "role": "mid",
+    "price": 230
+  },
+  {
+    "name": "DAMIFAX",
+    "role": "mid",
+    "price": 220
+  },
+  {
+    "name": "DABLIK",
+    "role": "mid",
+    "price": 200
+  },
+  {
+    "name": "LETYPEK",
+    "role": "mid",
+    "price": 180
+  },
+  {
+    "name": "ENOYEKK",
+    "role": "mid",
+    "price": 80
+  },
+  {
+    "name": "KATE",
+    "role": "mid",
+    "price": 70
+  },
+  {
+    "name": "SHADOW",
+    "role": "mid",
+    "price": 40
+  },
+  {
+    "name": "MATY",
+    "role": "sup",
+    "price": 640
+  },
+  {
+    "name": "ENSU",
+    "role": "sup",
+    "price": 630
+  },
+  {
+    "name": "DRANNARITH",
+    "role": "sup",
+    "price": 580
+  },
+  {
+    "name": "VICKY",
+    "role": "sup",
+    "price": 560
+  },
+  {
+    "name": "DREAMERR",
+    "role": "sup",
+    "price": 530
+  },
+  {
+    "name": "ERKO",
+    "role": "sup",
+    "price": 480
+  },
+  {
+    "name": "APPLES",
+    "role": "sup",
+    "price": 460
+  },
+  {
+    "name": "KRYSTOF",
+    "role": "sup",
+    "price": 460
+  },
+  {
+    "name": "LURKERC",
+    "role": "sup",
+    "price": 460
+  },
+  {
+    "name": "STRADY",
+    "role": "sup",
+    "price": 460
+  },
+  {
+    "name": "TORONIS",
+    "role": "sup",
+    "price": 460
+  },
+  {
+    "name": "DEAGLES",
+    "role": "sup",
+    "price": 450
+  },
+  {
+    "name": "LAMA",
+    "role": "sup",
+    "price": 450
+  },
+  {
+    "name": "XLUCKER",
+    "role": "sup",
+    "price": 450
+  },
+  {
+    "name": "HANI",
+    "role": "sup",
+    "price": 440
+  },
+  {
+    "name": "FALAZURY",
+    "role": "sup",
+    "price": 420
+  },
+  {
+    "name": "MARI",
+    "role": "sup",
+    "price": 420
+  },
+  {
+    "name": "SANNY",
+    "role": "sup",
+    "price": 420
+  },
+  {
+    "name": "MANGALU",
+    "role": "sup",
+    "price": 410
+  },
+  {
+    "name": "TYNKA",
+    "role": "sup",
+    "price": 410
+  },
+  {
+    "name": "TVARUZEK",
+    "role": "sup",
+    "price": 400
+  },
+  {
+    "name": "ALXX",
+    "role": "sup",
+    "price": 350
+  },
+  {
+    "name": "NEMEZIZ",
+    "role": "sup",
+    "price": 350
+  },
+  {
+    "name": "SCARLET",
+    "role": "sup",
+    "price": 350
+  },
+  {
+    "name": "KYLU",
+    "role": "sup",
+    "price": 310
+  },
+  {
+    "name": "CNES",
+    "role": "sup",
+    "price": 300
+  },
+  {
+    "name": "WENDSD",
+    "role": "sup",
+    "price": 300
+  },
+  {
+    "name": "HITARO",
+    "role": "sup",
+    "price": 290
+  },
+  {
+    "name": "KIPEK",
+    "role": "sup",
+    "price": 290
+  },
+  {
+    "name": "MELTIK",
+    "role": "sup",
+    "price": 240
+  },
+  {
+    "name": "TOMKO",
+    "role": "sup",
+    "price": 230
+  },
+  {
+    "name": "BRAMBOR",
+    "role": "sup",
+    "price": 220
+  },
+  {
+    "name": "KACKA",
+    "role": "sup",
+    "price": 220
+  },
+  {
+    "name": "KURE",
+    "role": "sup",
+    "price": 210
+  },
+  {
+    "name": "NATYNKA",
+    "role": "sup",
+    "price": 210
+  },
+  {
+    "name": "TAVIEN",
+    "role": "sup",
+    "price": 210
+  },
+  {
+    "name": "GENESIS",
+    "role": "sup",
+    "price": 200
+  },
+  {
+    "name": "MAWZU",
+    "role": "sup",
+    "price": 200
+  },
+  {
+    "name": "MIYA",
+    "role": "sup",
+    "price": 180
+  },
+  {
+    "name": "JANE",
+    "role": "sup",
+    "price": 170
+  },
+  {
+    "name": "INOE",
+    "role": "sup",
+    "price": 160
+  },
+  {
+    "name": "POLI",
+    "role": "sup",
+    "price": 160
+  },
+  {
+    "name": "DORTOMET",
+    "role": "sup",
+    "price": 140
+  },
+  {
+    "name": "FUFINKA",
+    "role": "sup",
+    "price": 140
+  },
+  {
+    "name": "BIGPEPIK",
+    "role": "sup",
+    "price": 120
+  },
+  {
+    "name": "BAGETKA",
+    "role": "sup",
+    "price": 80
+  },
+  {
+    "name": "MISSANTHROPY",
+    "role": "sup",
+    "price": 50
+  },
+  {
+    "name": "LUNA",
+    "role": "sup",
+    "price": 40
+  },
+  {
+    "name": "INTEROR",
+    "role": "top",
+    "price": 680
+  },
+  {
+    "name": "DUO DINO",
+    "role": "top",
+    "price": 670
+  },
+  {
+    "name": "VLAREN",
+    "role": "top",
+    "price": 650
+  },
+  {
+    "name": "LAGIER",
+    "role": "top",
+    "price": 580
+  },
+  {
+    "name": "FEJKYY",
+    "role": "top",
+    "price": 570
+  },
+  {
+    "name": "TADA",
+    "role": "top",
+    "price": 540
+  },
+  {
+    "name": "VOPI",
+    "role": "top",
+    "price": 540
+  },
+  {
+    "name": "MRKVA",
+    "role": "top",
+    "price": 510
+  },
+  {
+    "name": "TRESKO",
+    "role": "top",
+    "price": 510
+  },
+  {
+    "name": "ECUNDESS",
+    "role": "top",
+    "price": 480
+  },
+  {
+    "name": "ELEGANTA",
+    "role": "top",
+    "price": 450
+  },
+  {
+    "name": "DEMO",
+    "role": "top",
+    "price": 430
+  },
+  {
+    "name": "LEXA",
+    "role": "top",
+    "price": 430
+  },
+  {
+    "name": "KASPI",
+    "role": "top",
+    "price": 410
+  },
+  {
+    "name": "LADIK",
+    "role": "top",
+    "price": 410
+  },
+  {
+    "name": "MAX",
+    "role": "top",
+    "price": 400
+  },
+  {
+    "name": "DIZASTERZ",
+    "role": "top",
+    "price": 350
+  },
+  {
+    "name": "KOCOUR",
+    "role": "top",
+    "price": 350
+  },
+  {
+    "name": "PLANER",
+    "role": "top",
+    "price": 340
+  },
+  {
+    "name": "ZEMLE",
+    "role": "top",
+    "price": 330
+  },
+  {
+    "name": "JAGDAYNER",
+    "role": "top",
+    "price": 320
+  },
+  {
+    "name": "ALKO",
+    "role": "top",
+    "price": 310
+  },
+  {
+    "name": "HOLUB",
+    "role": "top",
+    "price": 310
+  },
+  {
+    "name": "KRTECEK",
+    "role": "top",
+    "price": 310
+  },
+  {
+    "name": "MUKI",
+    "role": "top",
+    "price": 310
+  },
+  {
+    "name": "DARK",
+    "role": "top",
+    "price": 300
+  },
+  {
+    "name": "DAVCAA",
+    "role": "top",
+    "price": 290
+  },
+  {
+    "name": "LAZAR",
+    "role": "top",
+    "price": 260
+  },
+  {
+    "name": "ZOOM",
+    "role": "top",
+    "price": 260
+  },
+  {
+    "name": "JESTERSON",
+    "role": "top",
+    "price": 240
+  },
+  {
+    "name": "PAPALTE",
+    "role": "top",
+    "price": 240
+  },
+  {
+    "name": "WIZY",
+    "role": "top",
+    "price": 230
+  },
+  {
+    "name": "POPO",
+    "role": "top",
+    "price": 220
+  },
+  {
+    "name": "XNX",
+    "role": "top",
+    "price": 220
+  },
+  {
+    "name": "DARKING",
+    "role": "top",
+    "price": 210
+  },
+  {
+    "name": "DAKI",
+    "role": "top",
+    "price": 200
+  },
+  {
+    "name": "HELLSPAY",
+    "role": "top",
+    "price": 200
+  },
+  {
+    "name": "WOYTA",
+    "role": "top",
+    "price": 200
+  },
+  {
+    "name": "MEDIK",
+    "role": "top",
+    "price": 190
+  },
+  {
+    "name": "PADDY",
+    "role": "top",
+    "price": 180
+  },
+  {
+    "name": "PLEXO",
+    "role": "top",
+    "price": 170
+  },
+  {
+    "name": "LIPOFI",
+    "role": "top",
+    "price": 160
+  },
+  {
+    "name": "PETER",
+    "role": "top",
+    "price": 90
+  },
+  {
+    "name": "FROSTY",
+    "role": "top",
+    "price": 90
+  },
+  {
+    "name": "GABE",
+    "role": "top",
+    "price": 90
+  },
+  {
+    "name": "MARMELADA",
+    "role": "top",
+    "price": 90
+  },
+  {
+    "name": "SAFARI",
+    "role": "top",
+    "price": 80
+  },
+  {
+    "name": "DRAGOS",
+    "role": "top",
+    "price": 60
+  }
+]
